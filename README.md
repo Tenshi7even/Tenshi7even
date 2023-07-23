@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Tenshi7even
-- 👀 I’m interested in backend
 - 🌱 I’m currently learning Python
 
 
